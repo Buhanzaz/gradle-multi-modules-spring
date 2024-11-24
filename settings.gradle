@@ -1,3 +1,3 @@
-rootProject.name = 'gradle-multy-modules'
+rootProject.name = 'gradle-multi-modules'
 
 include('interface', 'service', 'implementation-A', 'implementation-B')
