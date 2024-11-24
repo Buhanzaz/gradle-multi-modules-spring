@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-multy-modules'
+
+include('interface', 'service', 'implementation-A', 'implementation-B')
